@@ -5,7 +5,7 @@ A native Android application cloning the core interface and functionalities of W
 ## 📱 Preview
 
 <p align="center">
-  <img src=".github/screenshot.png" width="320" alt="WhatsApp Clone Screenshot" style="border-radius: 8px;">
+  <img src=".github/screenshot.png.png" width="320" alt="WhatsApp Clone Screenshot" style="border-radius: 8px;">
 </p>
 
 ## 🛠 Tech Stack & Architecture
